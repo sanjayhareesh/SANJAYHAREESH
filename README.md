@@ -12,22 +12,24 @@ I believe in combining engineering fundamentals with artificial intelligence to 
 
 ## 🚀 Currently Working On
 
-### 🤖 JARVIS — Personal AI Assistant
+## 🔴 Currently Building: Project ULTRON
 
-Developing a personal AI assistant inspired by Tony Stark's JARVIS, with the vision of creating an intelligent system that can interact with users, assist with everyday tasks, and make human-computer interaction smarter.
+**ULTRON — Unified Learning, Technology & Robotic Operating Network**
 
-**Project Goals:**
-- 🧠 Explore AI-powered assistance and intelligent automation.
-- 🎙️ Develop voice-based interaction capabilities.
-- 💬 Enable natural and intuitive user interaction.
-- ⚙️ Explore task automation and system control.
-- 🔊 Investigate speech recognition and text-to-speech technologies.
-- 🛠️ Build a modular and extensible assistant architecture.
-- 🚀 Continuously improve functionality through experimentation.
+Developing a personal AI assistant that will evolve from a
+basic conversational assistant into an advanced intelligent system.
 
-*Status: In Development | Building the future, one feature at a time.*
+### 🚀 Planned Features
+- 🧠 AI-powered conversations
+- 🎙️ Voice interaction
+- 🔊 Speech recognition and voice responses
+- 💾 Personalized memory
+- ⚙️ Permission-based task automation
+- 🖥️ A futuristic user interface
 
----
+**Status:** 🚧 In Development
+
+*Building intelligent systems, one milestone at a time.*
 
 ## 🔬 Technical Interests
 
